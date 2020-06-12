@@ -41,7 +41,7 @@ THEN I find a concise, descriptive titl
 
 * Seyoung Yoon
 
-- [Link to Portfolio Site](https://seyouny.github.io/code-refactor-project/)
+- [Link to Portfolio Site](https://github.com/seyouny/prework-about-me)
 - [Link to Github](https://github.com/seyouny)
 - [Link to LinkedIn](https://www.linkedin.com/in/stacey-yoon-bbaa7413a/)
 
