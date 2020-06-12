@@ -13,7 +13,11 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    position: fixed;
+    width: 100%;
 }
+/* Fixed header position to remain on top of screen
+    Expanded width to cover the entire width of screen*/
 
 .header h1 {
     display: inline-block;
